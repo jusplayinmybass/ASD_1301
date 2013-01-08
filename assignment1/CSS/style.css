@@ -1,0 +1,75 @@
+/*
+	Author: Myron Carroll
+	Title: Assignment 4 Stylesheet
+	For: Mobile Interfaces and Usability
+
+*/
+
+
+p{	
+	font-family:  Arial;
+	color: #000;
+	
+}
+
+a{
+	color: #FF0000;
+	background-color: #0000BB;
+}
+h1{
+	font: 30px Arial;
+	font-weight: bold;
+	border: 10px solid #33BBFF;
+	color: #EEE;
+	background-color: #3399FF;
+	padding: 10px;
+}
+
+
+form {
+	margin: 10px solid #EEE;
+	background: 3399FF
+}
+
+label {
+	color: #000;
+	display: inline;
+	text-align: left;
+	background: 3399FF
+}
+
+div{
+	font-family: Times;
+	color: #000000;
+	background: #979899;
+	display: inline;
+	
+}
+
+
+li {
+	color: #EEE;
+	text-align: left;
+}
+
+legend {
+	font-weight: bold;
+	background: 3399FF
+
+}
+
+option {
+	font-style: italic;	
+}
+
+label.error{
+	display: block;
+	margin: 10px 0px;
+	color: #cc0000;
+}
+#siErrors{
+	display: none;
+}
+#add{
+	
+}
